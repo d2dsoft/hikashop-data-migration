@@ -2,6 +2,7 @@
 [HikaShop Data Migration Tool](https://d2d-soft.com/39-hikashop-migration) is a solution for migrating data to HikaShop from the another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/767-7244-americommerce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [BigCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/488-2027-bigcommerce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [CS-Cart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/485-2017-cs-cart-to-hikashop-migration-tool.html#/72-entities-1000)
 - [CubeCart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/472-1952-cubecart-to-hikashop-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/476-1972-oscommerce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to HikaShop Migration](https://d2d-soft.com/hikashop-migration/477-1977-oxid-eshop-to-hikashop-migration-tool.html#/72-entities-1000)
 - [PrestaShop to HikaShop Migration](https://d2d-soft.com/hikashop-migration/478-1982-prestashop-to-hikashop-migration-tool.html#/72-entities-1000)
+- [Salesforce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/715-6693-salesforce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [Shopify to HikaShop Migration](https://d2d-soft.com/hikashop-migration/487-2022-shopify-to-hikashop-migration-tool.html#/72-entities-1000)
 - [VirtueMart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/479-1987-virtuemart-to-hikashop-migration-tool.html#/72-entities-1000)
 - [Volusion to HikaShop Migration](https://d2d-soft.com/hikashop-migration/638-5890-volusion-to-hikashop-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/484-2012-zencart-to-hikashop-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
