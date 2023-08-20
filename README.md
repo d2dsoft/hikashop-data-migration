@@ -12,6 +12,7 @@
 - [J2Store to HikaShop Migration](https://d2d-soft.com/hikashop-migration/515-2147-j2store-to-hikashop-migration-tool.html#/72-entities-1000)
 - [JigoShop to HikaShop Migration](https://d2d-soft.com/hikashop-migration/540-2257-jigoshop-to-hikashop-migration-tool.html#/72-entities-1000)
 - [JoomShopping to HikaShop Migration](https://d2d-soft.com/hikashop-migration/590-2497-joomshopping-to-hikashop-migration-tool.html#/72-entities-1000)
+- [LiteCart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/875-8358-litecart-to-hikashop-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/473-1957-loaded-to-hikashop-migration-tool.html#/72-entities-1000)
 - [Magento to HikaShop Migration](https://d2d-soft.com/hikashop-migration/474-1962-magento-to-hikashop-migration-tool.html#/72-entities-1000)
 - [MarketPress to HikaShop Migration](https://d2d-soft.com/hikashop-migration/565-2377-marketpress-to-hikashop-migration-tool.html#/72-entities-1000)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress
