@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/767-7244-americommerce-to-hikashop-migration-tool.html#/72-entities-1000)
+- [Bagisto to HikaShop Migration](https://d2d-soft.com/hikashop-migration/933-8952-bagisto-to-hikashop-migration-tool.html#/72-entities-1000)
 - [BigCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/488-2027-bigcommerce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [CS-Cart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/485-2017-cs-cart-to-hikashop-migration-tool.html#/72-entities-1000)
 - [CubeCart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/472-1952-cubecart-to-hikashop-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
