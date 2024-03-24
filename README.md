@@ -20,6 +20,7 @@
 - [Magento to HikaShop Migration](https://d2d-soft.com/hikashop-migration/474-1962-magento-to-hikashop-migration-tool.html#/72-entities-1000)
 - [MarketPress to HikaShop Migration](https://d2d-soft.com/hikashop-migration/565-2377-marketpress-to-hikashop-migration-tool.html#/72-entities-1000)
 - [OpenCart to HikaShop Migration](https://d2d-soft.com/hikashop-migration/475-1967-opencart-to-hikashop-migration-tool.html#/72-entities-1000)
+- [osCMax to HikaShop Migration](https://d2d-soft.com/hikashop-migration/1187-11541-oscmax-to-hikashop-migration-tool.html#/72-entities-1000)
 - [osCommerce to HikaShop Migration](https://d2d-soft.com/hikashop-migration/476-1972-oscommerce-to-hikashop-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to HikaShop Migration](https://d2d-soft.com/hikashop-migration/477-1977-oxid-eshop-to-hikashop-migration-tool.html#/72-entities-1000)
 - [PrestaShop to HikaShop Migration](https://d2d-soft.com/hikashop-migration/478-1982-prestashop-to-hikashop-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
